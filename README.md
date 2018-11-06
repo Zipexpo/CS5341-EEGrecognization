@@ -2,16 +2,18 @@
 
 ## Table of Contents
 * [Video Demo](#video-demo)
-* [Project Report](#project-report---project)
+* [Project Report](#project-report-project)
   * [Project Proposal](#project-proposal)
   * [Tools/Devices Used](#toolsdevices-used)
-  * [We Learned...](#we-learned-1)
-  * [Contributors](#contributors-1)
+  * [We Learned...](#we-learned)
+  * [Contributors](#contributors)
   * [Work Distribution](#work-distribution)
   * [Screenshots](#screenshots)
   * [Timeline and Tasks](#timeline-and-tasks)
-  * [External Model/Asset Sources](#external-modelasset-sources-in-addition-to-project-2-assets)
+  * [External Model/Asset Sources](#external-modelasset-sources)
+  
 ## Project Report
+
 ### Project Proposal
 ### Tools/Devices Used
 ### We Learned...
