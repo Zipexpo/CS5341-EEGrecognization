@@ -4,6 +4,7 @@
 * [Video Demo](#video-demo)
 * [Project Report](#project-report-project)
   * [Project Proposal](#project-proposal)
+  * [Data acquisition](#toolsdevices-used)
   * [Tools/Devices Used](#toolsdevices-used)
   * [We Learned...](#we-learned)
   * [Contributors](#contributors)
