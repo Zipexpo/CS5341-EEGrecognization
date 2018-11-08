@@ -22,6 +22,10 @@
 ### Work Distribution
 ### Screenshots
 ### Timeline and Tasks
+Nov. 12 Ngan finishes Outline and Task
+Nov. 14 Code Prepocessing 
+Nov. 16 Apply algrithms and get prelimetery results 
+Nov. 19 Respond and explain results (include changing parameters)
 ### External Model/Asset Sources
 
 ## References
