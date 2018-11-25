@@ -1,6 +1,7 @@
 function a = convertTreeclass2Flatclass(data)
-[n,va] = size();
+a = data;
+[n,va] = size(a);
 for i = 1:n
-    a
+    a.mainclass
 end
 end
