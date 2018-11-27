@@ -19,6 +19,7 @@
 ### Tools/Devices Used
 ### We Learned...
 ### Contributors
+[Task assigned](https://docs.google.com/spreadsheets/d/12GhGyCyVlr5VGIQLJ-sOMfLmtiev8YjxLARVJmYe16U/edit?usp=sharing)
 ### Work Distribution
 ### Screenshots
 ### Timeline and Tasks
