@@ -1,0 +1,12 @@
+count = 1;
+for i = 10:100:2000
+    tic
+
+    timeper(count) = toc;
+    results = trainedModel.predictFcn(testingdata);
+    racc = sum(results == testingdata.mainclass);
+    sizetest = size(results);
+    sizetest = sizetest(1);
+    accuracy(count) = racc/sizetest;
+    count = count+1;
+end
