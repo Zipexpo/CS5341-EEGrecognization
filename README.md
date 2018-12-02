@@ -26,7 +26,7 @@
 * Nov. 20 Ngan finishes Outline and Task
 * Nov. 22 Ngan Code Prepocessing 
 * Nov. 23 Khalid Apply algrithms and get prelimetery results 
-* Nov. 19 Respond and explain results (include changing parameters)
+* Dec. 1 Collect persentation draf
 ### External Model/Asset Sources
 
 ## References
