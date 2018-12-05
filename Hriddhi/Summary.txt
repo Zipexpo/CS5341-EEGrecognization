@@ -2,8 +2,13 @@ Summary
 
 SVM algorithm has been applied using various constraints namely box constraint level, multiclass method, applying PCA, without applying PCA.
 
-After analysis, we get the following results: 
-By applying SVM algorithm without applying PCA we get the best accuracy as 44.4%. 
-By applying SVM algorithm witH applying PCA we get the best accuracy as 22.5%. 
+Results after training data: 
+SVM without applying PCA, the best accuracy as 44.4%. 
+SVM with applying PCA, the best accuracy as 22.5%. 
 
-Hence we can conclude that the best accuracy of SVM algorithm for this project is 44.4%.
+Results after testing: 
+SVM without applying PCA, the best accuracy as 55.19%. 
+SVM with applying PCA, the best accuracy as 19.31%. 
+
+Hence, we can conclude that the highest accuracy of Linear SVM algorithm is 55.19%.
+This accuracy obtained is not the best one and so this is not the best algorithm for EEG recognition.
