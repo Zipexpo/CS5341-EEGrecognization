@@ -16,7 +16,10 @@
 ## Project Report
 
 ### Project Proposal
+[Available to read at overleaf] https://www.overleaf.com/read/kytvdxycjhbz
 ### Tools/Devices Used
+* Emotiv Insight
+* Matlab & Python
 ### We Learned...
 ### Contributors
 [Task assigned](https://docs.google.com/spreadsheets/d/12GhGyCyVlr5VGIQLJ-sOMfLmtiev8YjxLARVJmYe16U/edit?usp=sharing)
